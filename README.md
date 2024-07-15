@@ -1,2 +1,2 @@
 use command to run
-nodemon api.js
+'nodemon api.js'
